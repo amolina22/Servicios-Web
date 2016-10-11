@@ -1,0 +1,7 @@
+Ejemplo Servicio Web REST con Glassfish
+
+http://localhost:8080/servicioRestJerseyEjemplo/rest/inicio/saludo
+
+http://localhost:8080/servicioRestJerseyEjemplo/form.xhtml
+
+http://localhost:8080/servicioRestJerseyEjemplo/rest/inicio/miNombre?name=Abel
